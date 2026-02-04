@@ -79,7 +79,7 @@ python test_generator.py
 ### تشغيل الخادم
 
 ```bash
-python main.py
+python main_final.py
 ```
 
 سيعمل الخادم على: `http://localhost:5000`
@@ -210,3 +210,4 @@ VIDEO_BITRATE = "1M"  # بدلاً من "2M"
 ---
 
 **تم الإنشاء بواسطة Antigravity | Created by Antigravity**
+
